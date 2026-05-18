@@ -153,7 +153,7 @@ plotly>=5.18
 
 ## 👤 Author
 
-**[Your Name]**  
+**[Allada Prasanth]**  
 3rd Year Computer Science Student  
 📧 your.email@example.com  
 🔗 [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
