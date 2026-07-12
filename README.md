@@ -155,8 +155,8 @@ plotly>=5.18
 
 **[Allada Prasanth]**  
 3rd Year Computer Science Student  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
+📧 prasanthallada6281@gmail.com  
+🔗 [LinkedIn](www.linkedin.com/in/prasanth-allada-9725242b3) | 
 
 ---
 
